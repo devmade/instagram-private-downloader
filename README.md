@@ -1,6 +1,7 @@
 # instagram-private-downloader
 
 Only works if you follow someone and you are able to view their photos
+
 > The script downloads every image loaded in your viewport. Currently no solution for it, however in future releases I will consider adding it
 
 Steps
@@ -13,4 +14,6 @@ Steps
 var _ig_s = document.createElement('script'); _ig_s.src = "https://cdn.jsdelivr.net/gh/devsaurabhcb/instagram-private-downloader@latest/downloader.js"; document.body.appendChild(_ig_s);});
 ```
 
-Did you like it, let me know : *[email me](mailto:devsaurabh@mail.com)]*
+Did you like it, let me know : *[email me](mailto:devsaurabh@mail.com)*
+
+##_All Hail Saurabh Sharma, devSaurabh_
