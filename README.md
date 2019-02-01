@@ -11,7 +11,13 @@ Steps
 4. Simply copy and paste following in your console tab
 
 ```javascript
-var _ig_s = document.createElement('script'); _ig_s.src = "https://cdn.jsdelivr.net/gh/devsaurabhcb/instagram-private-downloader@latest/downloader.js"; document.body.appendChild(_ig_s);});
+var _ig_s = document.createElement('script');
+_ig_s.src = "https://cdn.jsdelivr.net/gh/devsaurabhcb/instagram-private-downloader@latest/downloader.js"; 
+document.body.appendChild(_ig_s);
+```
+or all these in one line
+```javascript
+var _ig_s = document.createElement('script');_ig_s.src = "https://cdn.jsdelivr.net/gh/devsaurabhcb/instagram-private-downloader@latest/downloader.js"; document.body.appendChild(_ig_s);
 ```
 
 Did you like it, let me know : *[email me](mailto:devsaurabh@mail.com)*
